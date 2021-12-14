@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:flutter/src/widgets/icon.dart';
+// import 'package:flutter/src/widgets/icon.dart';
 
 class Category {
   String name;
